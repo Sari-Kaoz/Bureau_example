@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        // Kommentera gärna vad koden handlar om.
         string contents = "";
 
         System.Console.WriteLine("Öppnar byrålådan...");
